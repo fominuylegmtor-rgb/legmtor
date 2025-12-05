@@ -17,13 +17,14 @@ hope on me
 >>level 2
 -item 1
 >>-subitem
+
 1.u item 1
 2. item 2
 we use jave script for this program
 \<h1>\
-\\\cmd
->>git clone <URL>
-\\\
-\\\javascript
+```cmd
+git clone <URL>
+```
+```javascript
 console.log ("hello")
-\\\
+```
