@@ -1,4 +1,4 @@
-#-Italic *legmtor 1 
+#-bold+Italic *legmtor* 1 
 
 am a developer of people
 ## the best 2
