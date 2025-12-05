@@ -1,4 +1,4 @@
-#-Italic *legmtor* 1 
+#-Italic *legmtor 1 
 
 am a developer of people
 ## the best 2
@@ -12,4 +12,4 @@ big name
 God son
 ##### whole plannet 5
 
-hope on me
+hope on me*
