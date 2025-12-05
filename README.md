@@ -21,7 +21,7 @@ hope on me
 1.u item 1
 2. item 2
 we use jave script for this program
-\<h1>\
+`<h1>`
 ```cmd
 git clone <URL>
 ```
