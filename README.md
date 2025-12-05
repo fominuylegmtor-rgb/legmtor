@@ -21,3 +21,8 @@ hope on me
 2. item 2
 we use jave script for this program
 \<h1>\
+\\\cmd
+>>git clone <URL>
+\\\
+\\\javascript
+>>console.log (\\hello//)
